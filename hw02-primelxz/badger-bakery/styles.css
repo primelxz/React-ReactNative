@@ -1,0 +1,25 @@
+table, th, td {
+  border: 1px solid;
+}
+
+.large-text-wrap {
+  inline-size: 600px; 
+}
+
+.primary-button {
+  background: teal;
+  color: #f2fee6;
+  border-radius: 10px;
+  border-style: hidden;
+  padding: 12px 24px;
+  box-shadow: 0 6px 10px 0 rgba(0,0,0,0.2), 0 2px 6px 0 rgba(0,0,0,0.19);
+}
+
+.secondary-button {
+  background: #f2fee6;
+  color: teal;
+  border-radius: 10px;
+  border-style: hidden;
+  padding: 12px 24px;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2), 0 2px 6px 0 rgba(0,0,0,0.19);
+}

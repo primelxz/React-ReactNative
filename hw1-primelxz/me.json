@@ -1,0 +1,10 @@
+{
+    "name": {
+        "first": "Layton",
+        "last": "Liu"
+    },
+    "fromWisconsin": false,
+    "numCredits": 11,
+    "major": "Computer Science",
+    "interests": ["game", "music", "travel", "eat", "sleep"]
+}
